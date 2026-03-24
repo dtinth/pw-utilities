@@ -1,3 +1,2 @@
-export function fn() {
-  return "Hello, tsdown!";
-}
+export { type LocatorLike } from "./locator-like.ts";
+export { stabilize } from "./stabilize.ts";
